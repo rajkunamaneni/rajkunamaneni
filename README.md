@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **rajkunamaneni/rajkunamaneni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajkunamaneni&theme=synthwave)
+<div align="center">
+  <a href="https://github.com/rajkunamaneni">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajkunamaneni&layout=compact&align=center&theme=synthwave" />
+  </a>
+</div>
+
